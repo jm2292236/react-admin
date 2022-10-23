@@ -9,7 +9,6 @@ import NotificationsOutLinedIcon from '@mui/icons-material/NotificationsOutlined
 import SettingsOutLinedIcon from '@mui/icons-material/SettingsOutlined'
 import PersonOutLinedIcon from '@mui/icons-material/PersonOutlined'
 import SearchOutLinedIcon from '@mui/icons-material/SearchOutlined'
-import { TokenOutlined } from '@mui/icons-material'
 
 const Topbar = () => {
     const theme = useTheme();
